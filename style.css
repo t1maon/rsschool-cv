@@ -1,0 +1,33 @@
+.row {
+ display: flex; 
+}
+.wide {
+  background-color: rgb(127, 173, 173);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: normal;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px
+}
+.foot {
+  display: flex;
+  padding: 30px;
+  width: 800px;
+  justify-content: space-between;
+}
+.logo {
+  width: 200px;
+}
+.date {
+  width: 150px;
+}
+.name {
+  padding-left: 80px;
+}
+.inf {
+  display: flex;
+  padding-left: 152px;
+}
+.work {
+
+}
